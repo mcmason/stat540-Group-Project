@@ -1,0 +1,9 @@
+---  
+title: "STAT 540 - Seminar 2c: Getting your hands dirty with R, probability and simulations"  
+author: "Adam Mattsson"  
+date: "`r format(Sys.Date())`"
+output: github_document
+keep_md: true
+message: FALSE
+Warnings: FALSE
+---  
